@@ -1,0 +1,71 @@
+u {
+  text-decoration: none;
+  border-bottom: solid 2px;
+}
+
+a {
+  text-decoration: none;
+  color: #007bff;
+  border-bottom: solid 2px;
+  transition: 0.3s;
+}
+
+a:hover{
+  color: #59a9ff;
+}
+
+a:visited{
+  color: #6a00ff;
+}
+
+a:visited:hover{
+  color: #8833ff;
+}
+
+pre {
+  text-decoration: none;
+  border: solid #95989c 2px;
+  border-radius: 5px;
+  background: #a5a8ad;
+  font-family: "Courier New", monospace;
+  resize: both;
+  overflow: auto;
+}
+
+b,
+strong {
+  text-decoration: none;
+  font-weight: 900;
+}
+
+em,
+i {
+  text-decoration: none;
+  font-style: oblique;
+  font-family: "Times New Roman", serif;
+}
+
+q {
+  font-family: Georgia, serif;
+}
+
+hr {
+  border-top: solid 2px;
+}
+
+li {
+  color: #262d38;
+}
+
+li h1,
+li h2,
+li h3,
+li h4,
+li h5,
+li h6 {
+  color: black;
+}
+
+body {
+  font-family: "Bangla Sangam MN", sans-serif;
+}
